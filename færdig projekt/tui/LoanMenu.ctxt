@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LoanMenu
+comment1.params=
+comment1.target=LoanMenu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LoanMenu\r\n
+comment2.params=
+comment2.target=void\ start()
+comment2.text=metoden\ til\ at\ starte\ programmet\ og\ vores\ starts\ menu
+comment3.params=
+comment3.target=void\ loanMenu()
+comment3.text=metoden\ til\ at\ vise\ l\u00E5ne\ menuen\ til\ vores\ TUI
+comment4.params=
+comment4.target=int\ writeLoanMenu()
+comment4.text=metode\ til\ at\ skrive\ vores\ l\u00E5ne\ menu
+comment5.params=keyboard
+comment5.target=int\ getIntegerFromUser(java.util.Scanner)
+comment5.text=metode\ til\ at\ indtage\ information\ fra\ keyboarded\ fra\ vores\ bruger
+comment6.params=
+comment6.target=void\ writeCreateLoanWindow()
+comment6.text=metode\ til\ at\ skrive\ vores\ l\u00E5ne\ menu\ vindue
+numComments=7

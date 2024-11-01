@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LoanContainer
+comment0.text=LoanContainer\ klasse,\ hvor\ vi\ initiare\ klassen\ og\ laver\ en\ LoanContainer\ constructer.
+comment1.params=
+comment1.target=LoanContainer()
+comment2.params=
+comment2.target=LoanContainer\ getInstance()
+comment2.text=her\ s\u00F8rger\ vi\ for\ der\ kun\ bliver\ lavet\ et\ object
+comment3.params=
+comment3.target=void\ setLoansSize()
+comment3.text=her\ incrementere\ vi\ vores\ l\u00E5ne\ arrays\ st\u00F8rrelse
+comment4.params=
+comment4.target=int\ getLoansSize()
+comment4.text=getter\ til\ at\ modtage\ vores\ loansSize
+comment5.params=newLoan
+comment5.target=void\ addLoan(Loan)
+comment5.text=her\ tilf\u00F8jer\ vi\ et\ nyt\ loan\ til\ vores\ array
+numComments=6

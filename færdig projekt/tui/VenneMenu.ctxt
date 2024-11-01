@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=VenneMenu
+comment1.params=
+comment1.target=VenneMenu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LoanMenu\r\n
+comment2.params=
+comment2.target=void\ start()
+comment2.text=priner\ vores\ venne\ menu
+comment3.params=
+comment3.target=void\ VenneMenu()
+comment3.text=bestemmer\ hvad\ aktion\ der\ skal\ ske,\ udfra\ brugeren\ indput
+comment4.params=
+comment4.target=int\ writeVenneMenu()
+comment4.text=bestemmer\ hvad\ der\ skal\ printes\ til\ sk\u00E6rmen
+comment5.params=keyboard
+comment5.target=int\ getIntegerFromUser(java.util.Scanner)
+comment5.text=modtager\ information\ fra\ brugerens\ keyboard
+numComments=6

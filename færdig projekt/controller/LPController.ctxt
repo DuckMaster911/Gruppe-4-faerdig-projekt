@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LPController
+comment0.text=\r\n\ Professionsh\u00F8jskolen\ UCN\r\n\ IT-uddannelserne\r\n\ Datamatiker\r\n\ DMA-CSD-S241\r\n\ Daniel\ Kristensen\r\n\ 10632091@UCN.dk\r\n
+comment1.params=
+comment1.target=LPController()
+comment1.text=en\ contructor\ som\ laver\ et\ objekt
+comment2.params=newLPContainer
+comment2.target=void\ setLPContainer(model.LPContainer)
+comment2.text=en\ setter\ som\ opretter\ en\ ny\ LPContainer
+comment3.params=barcode
+comment3.target=model.LP\ findLP(int)
+comment3.text=den\ finder\ en\ LP\ barcaode\ i\ LPContainer
+comment4.params=
+comment4.target=void\ printLPs()
+comment4.text=den\ laver\ metode\ kald\ til\ printLPS
+numComments=5

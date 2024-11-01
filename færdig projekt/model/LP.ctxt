@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LP
+comment0.text=opretter\ og\ initiaere\ en\ klasse,\ samt\ en\ construct
+comment1.params=newBarcode\ newTitle\ newArtist\ newPublicationDate
+comment1.target=LP(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getBarcode()
+comment2.text=getter\ til\ at\ modtage\ en\ barcode
+comment3.params=
+comment3.target=java.lang.String\ getLPString()
+comment3.text=getter\ til\ at\ modtage\ en\ String\ omkring\ vores\ LP.
+numComments=4

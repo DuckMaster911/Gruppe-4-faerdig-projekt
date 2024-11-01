@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=FriendContainer
+comment0.text=opretter\ klassen\ og\ initiaere\ klassen,\ samt\ vi\ bygger\ en\ constructer
+comment1.params=
+comment1.target=FriendContainer()
+comment2.params=
+comment2.target=FriendContainer\ getInstance()
+comment2.text=her\ s\u00F8rger\ vi\ for\ der\ kun\ bliver\ lavet\ et\ object
+comment3.params=newFriend
+comment3.target=void\ addFriend(Friend)
+comment3.text=tilf\u00F8jer\ ny\ ven\ til\ vores\ friends\ array
+comment4.params=friendNumber
+comment4.target=Friend\ findFriend(int)
+comment4.text=s\u00F8ge\ funktion\ til\ at\ finde\ den\ rigtige\ ven
+comment5.params=
+comment5.target=void\ createTestData()
+comment5.text=metoden\ til\ at\ generere\ test\ data
+numComments=6

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CopyContainer
+comment0.text=vi\ opretter\ klassen\ og\ initiaere\ den,\ samt\ laver\ en\ constructer
+comment1.params=
+comment1.target=CopyContainer()
+comment2.params=
+comment2.target=CopyContainer\ getInstance()
+comment2.text=her\ s\u00F8rger\ vi\ for\ der\ kun\ bliver\ lavet\ et\ object
+comment3.params=newCopy
+comment3.target=void\ addCopy(Copy)
+comment3.text=tilf\u00F8jer\ en\ ny\ kopi\ til\ vores\ copies\ array
+comment4.params=lp
+comment4.target=Copy\ findCopy(LP)
+comment4.text=s\u00F8ge\ funktion\ i\ vores\ copies\ array
+comment5.params=
+comment5.target=void\ createTestData()
+comment5.text=generere\ test\ data
+numComments=6

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Loan
+comment0.text=laver\ en\ klasse\ og\ initiaere\ klassen\ samt\ vi\ laver\ en\ constructer
+comment1.params=newLoanNumber\ currentDate\ newDeadLine\ newStatus
+comment1.target=Loan(int,\ java.time.LocalDate,\ java.time.LocalDate,\ boolean)
+comment2.params=newFriend
+comment2.target=void\ setFriend(Friend)
+comment2.text=setter\ til\ ny\ ven
+comment3.params=
+comment3.target=Friend\ getFriend()
+comment3.text=getter\ til\ vores\ ven
+comment4.params=
+comment4.target=Copy\ getLoanedCopy()
+comment4.text=getter\ til\ vores\ l\u00E5ne\ kopi
+comment5.params=
+comment5.target=java.time.LocalDate\ getBorrowDate()
+comment5.text=getter\ til\ vores\ l\u00E5ne\ dato
+comment6.params=
+comment6.target=java.time.LocalDate\ getDeadline()
+comment6.text=getter\ til\ vores\ afleveringsfrist\ for\ l\u00E5net
+comment7.params=newCopy
+comment7.target=void\ setCopy(Copy)
+comment7.text=setter\ til\ vores\ nye\ kopi
+numComments=8

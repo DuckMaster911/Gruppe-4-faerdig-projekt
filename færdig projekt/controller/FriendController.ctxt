@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FriendController
+comment0.text=\r\n\ Professionsh\u00F8jskolen\ UCN\r\n\ IT-uddannelserne\r\n\ Datamatiker\r\n\ DMA-CSD-S241\r\n\ Daniel\ Kristensen\r\n\ 10632091@UCN.dk\r\n
+comment1.params=
+comment1.target=FriendController()
+comment1.text=contructor\ til\ at\ oprette\ et\ objekt
+comment2.params=newFriendContainer
+comment2.target=void\ setFriendContainer(model.FriendContainer)
+comment2.text=en\ setter\ til\ at\ lave\ en\ ny\ friendContainer
+comment3.params=friendNumber
+comment3.target=model.Friend\ findFriend(int)
+comment3.text=den\ finder\ en\ friend\ som\ en\ int\ i\ friendContainer
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CopyController
+comment0.text=\r\n\ Professionsh\u00F8jskolen\ UCN\r\n\ IT-uddannelserne\r\n\ Datamatiker\r\n\ DMA-CSD-S241\r\n\ Daniel\ Kristensen\r\n\ 10632091@UCN.dk\r\n
+comment1.params=
+comment1.target=CopyController()
+comment1.text=contructor\ opretter\ objekt
+comment2.params=newCopyContainer
+comment2.target=void\ setCopyContainer(model.CopyContainer)
+comment2.text=en\ stter\ til\ en\ copyContainer
+comment3.params=lp
+comment3.target=model.Copy\ findCopy(model.LP)
+comment3.text=Den\ finder\ en\ copy\ i\ containeren
+numComments=4

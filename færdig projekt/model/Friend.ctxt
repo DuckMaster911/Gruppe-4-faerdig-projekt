@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Friend
+comment0.text=laver\ en\ klasse\ og\ initiaere\ klassen\ samt\ vi\ laver\ en\ constructer
+comment1.params=newName\ newFriendNumber\ newAddress\ newPostalcode\ newCity\ newPhone
+comment1.target=Friend(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=getter\ til\ Vores\ vens\ navn
+comment3.params=
+comment3.target=int\ getFriendNumber()
+comment3.text=getter\ til\ vores\ vens\ nummer
+numComments=4

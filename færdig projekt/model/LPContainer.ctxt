@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LPContainer
+comment0.text=vi\ opretter\ klassen\ og\ initiaere\ den,\ samt\ laver\ en\ constructer
+comment1.params=
+comment1.target=LPContainer()
+comment2.params=
+comment2.target=LPContainer\ getInstance()
+comment2.text=her\ s\u00F8rger\ vi\ for\ der\ kun\ bliver\ lavet\ et\ object
+comment3.params=newLP
+comment3.target=void\ addLP(LP)
+comment3.text=tilf\u00F8jer\ ny\ lp\ til\ vores\ lps\ array
+comment4.params=barcode
+comment4.target=LP\ findLP(int)
+comment4.text=s\u00F8ge\ metode\ til\ at\ finde\ den\ rigtige\ lp\ i\ vores\ lps\ array
+comment5.params=
+comment5.target=void\ printLPs()
+comment5.text=metode\ til\ at\ printe\ hele\ vores\ array\ list\ lps
+comment6.params=
+comment6.target=void\ createTestData()
+comment6.text=generere\ test\ data
+numComments=7
